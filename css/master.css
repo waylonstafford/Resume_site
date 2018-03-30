@@ -1,0 +1,45 @@
+html { 
+  background: url(../images/image.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover; 
+  background-size: cover;
+  font-family: 'Helvetica Neue', sans serif;
+}
+
+.prof-box {
+	width: 400px;
+	height: 400px;
+	background: rgba(0,0,0,0.4);
+	padding: 40px;
+	color: white;
+	margin: 0 auto;
+	margin-top: 140px;
+	text-align: center;
+}
+
+.prof-pic {
+	border-radius: 50%;
+	height: 200px;
+	width: 200px;
+}
+
+h1 {
+	font-weight: 50;
+	letter-spacing: 10;
+	font-size: 40px; 	
+}
+
+h4 {
+	font-weight: 200;
+	letter-spacing: 20;
+}
+
+.social-links {
+	font-size: 40px;
+}
+
+.social-links a {
+	color: white;
+
+}
